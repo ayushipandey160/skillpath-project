@@ -1,0 +1,1 @@
+export default function TestimonialSection(){return <section><h2>Testimonials</h2><p>Great platform!</p></section>}
