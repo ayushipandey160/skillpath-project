@@ -1,0 +1,1 @@
+export default function Footer(){return <footer><a href='/'>Home</a> | <a href='/about'>About</a> | <a href='/contact'>Contact</a><p>© SkillPath</p></footer>}
