@@ -1,0 +1,1 @@
+export default function HeroSection(){return <section><h1>Welcome to SkillPath</h1><p>Learn and grow with us.</p></section>}
