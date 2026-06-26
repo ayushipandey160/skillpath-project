@@ -1,0 +1,1 @@
+export default function CTABanner(){return <section><h2>Start Learning Today</h2></section>}
